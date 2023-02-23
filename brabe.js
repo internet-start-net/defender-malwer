@@ -1,0 +1,12 @@
+[Chrome]
+id=khndhdhbebhaddchcgnalcjlaekbbeof
+host=com.bitdefender.webtrackers.v1
+
+[Firefox]
+id=bdtbe@bitdefender.com
+host=com.bitdefender.webtrackers.v1
+download_url=https://download.bitdefender.com/windows/desktop/connect/antitracker/bdateff.html
+
+[Edge]
+id=dbconhplchnbippmjabbcedokimacfjl
+host=com.bitdefender.webtrackers.v1
